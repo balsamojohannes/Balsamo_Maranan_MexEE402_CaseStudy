@@ -11,7 +11,7 @@
 | Name | Student Number | Section |
 |---|---|---|
 | Balsamo, Johannes C. | 23-07356 | MEXE 4101 |
-| | | MEXE 4101 |
+| Maranan, Alliana Maurice B. | 23-00661 | MEXE 4101 |
 
 ---
 
