@@ -19,8 +19,8 @@
 
 | Chapter | Balsamo | Maranan |
 |---|---|---|
-| Chapter 1,2, & 3 | https://colab.research.google.com/drive/1PmJ-JCiv6ojrx_A9Zd5xscvwoj1vOR9H?usp=sharing | |
-| Chapter 4 | link(https://colab.research.google.com/drive/1PmJ-JCiv6ojrx_A9Zd5xscvwoj1vOR9H?usp=sharing) | |
+| Chapter 1,2, & 3 |  | |
+| Chapter 4 | [Click Here](https://colab.research.google.com/drive/1PmJ-JCiv6ojrx_A9Zd5xscvwoj1vOR9H?usp=sharing) | |
 | Chapter 5| | |
 | Chapter 6| | |
 | Chapter 7| | |
