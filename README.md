@@ -19,13 +19,13 @@
 
 | Chapter | Balsamo | Maranan |
 |---|---|---|
-| Chapter 1,2, & 3 |  | |
-| Chapter 4 | [Click Here](https://colab.research.google.com/drive/1PmJ-JCiv6ojrx_A9Zd5xscvwoj1vOR9H?usp=sharing) | |
-| Chapter 5| | |
-| Chapter 6| | |
-| Chapter 7| | |
-| Chapter 8| | |
-| Chapter 9| | |
+| Chapter 1,2, & 3 | [link]() | link]() |
+| Chapter 4 | [link]() | link]() |
+| Chapter 5| link]() | link]() |
+| Chapter 6| link]() | link]() |
+| Chapter 7| link]() | link]() |
+| Chapter 8| link]() | link]() |
+| Chapter 9| link]() | link]() |
 
 ---
 
