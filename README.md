@@ -24,7 +24,7 @@
 | Chapter 5| [link](https://colab.research.google.com/drive/1oSdwTByyreMfD_rag2NuprYxBw0vKimp?usp=sharing) | [link](https://colab.research.google.com/drive/1_WdAyvIXbMepLvDo1F5uJjKVIvD8RDDp?usp=sharing) |
 | Chapter 6| [link](https://colab.research.google.com/drive/11icyLzzlE1GduB_gqVmkYS5KHjQuH4IN?usp=sharing) | [link](https://colab.research.google.com/drive/1ojgVgTHwPaheQ9LQ2zYQDdUWKhQzcJhf?usp=sharing) |
 | Chapter 7| [link](https://colab.research.google.com/drive/11jCaJ1jmLHqeVtXLc068hl2sm6W-NgT7?usp=sharing) | [link]() |
-| Chapter 8| [link](https://colab.research.google.com/drive/1Boe3sg6ExVkKWEj2mmrWumw4PonAseLz?usp=sharing) | [link]() |
+| Chapter 8| [link](https://colab.research.google.com/drive/1Boe3sg6ExVkKWEj2mmrWumw4PonAseLz?usp=sharing) | [link](https://colab.research.google.com/drive/1a_Wz9uh-N4KqjGZppIOY4NLTX8hLqe-f?usp=sharing) |
 | Chapter 9| [link](https://colab.research.google.com/drive/1Ub4n03AduqAaHBOKyRLsUUqtHuouktBX?usp=sharing) | [link]() |
 
 ---
