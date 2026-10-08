@@ -38,12 +38,16 @@
 ### Chapter 5
 
 ### Chapter 6
+In this chapter, we gained a deeper understanding on what outliers are. We learned that it can affect the results and sometimes create a misleading data. This chapter also taught us how to find outliers by using two methods which are z-score and IQR method, as well as on how to handle them.
 
 ### Chapter 7
+In chapter 7, it taught us that feature selection is all about choosing the features or categories that are the most useful for making predictions. We were able to identify the different methods for feature selection such as filter, wrapper, and embedded methods, and their distinction from one another. What surprised me was that those three methods for feature selection choose different features from the same dataset, which gave us insights that when choosing an a method for feature selection, it must be appropriate on what the machine learning model was trying to predict. This chapter also taught us the correlation of each variable from one another.
 
 ### Chapter 8
+Chapter 8 is all about preprocessing pipeline which organizes the data. We learned the different processes of handling missing data. The first method is imputation wherein it handles the missing values by replacing it with the mean/median. Then after that it was scaled to standardize the data, so that one feature does not have a huge influence to others.
 
 ### Chapter 9
+In this chapter, we were able to apply the techniques that we learned from the previous chapters to clean and transform a messy dataset. What surprised us the most was how much preprocessing can change and improve the data. We also able to visualize the data using various plots after the data preprocessing. 
 
 ---
 
@@ -62,6 +66,7 @@
 ---
 
 ## 🤖 Note on AI Tools
+We used AI tools to help us understand the different libraries, functions, and codes used in every chapter. We used AI mainly to explain what each library or function does and to help us understand the concepts better.
 
 ---
 
