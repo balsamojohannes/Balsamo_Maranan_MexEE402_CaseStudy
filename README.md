@@ -32,10 +32,13 @@
 ## 🧠 What We Learned
 
 ### Chapter 1–2–3
+In chapters 1-3, we have learned about the foundation of data pre-processing from the introduction, exploration, and cleaning of our data. It made us realize how important it is for data to undergo pre-processing to produce clean and organized data for machine learning models. We observed that there are issues that may arise such as missing, inconsistent and irrelevant data, so that brought us in understanding the preprocessing techniques used in respective issues that cleans our data. Furthermore, it surprised us that there are methods to easily explore a dataset, which increases efficiency. 
 
 ### Chapter 4
+Chapter 4 gave us a deeper understanding of data transformation and feature engineering. We have learned that feature engineering could allow us to transform a variable or feature into a useful feature, and there are methods that we can use to reveal more useful patterns. It taught us about creating new features, binning data, interaction features, and the difference between one-hot and ordinal encoding. What surprised us was that simply combining existing features can produce a new pattern. Thus, this made us realize that there are different ways to make the machine learning model understand our data effectively by revealing useful patterns if we use appropriate methods with the right features. 
 
 ### Chapter 5
+In chapter 5, we understood the importance of data scaling and normalization in machine learning models because they make all features fall in a comparable range or distribution and prevent large scales from dominating the model. It also taught us the difference between StandardScaler and MinMaxScaler. What surprised us is that simple large numbers can negatively impact how the model understands the data and may treat large numbers as more important features. Moreover, we have learned that it is important to know what your algorithm is and how it processes the input features to know whether to use scaling or not. Therefore, knowing your data will help improve the performance of an ML model. 
 
 ### Chapter 6
 In this chapter, we gained a deeper understanding on what outliers are. We learned that it can affect the results and sometimes create a misleading data. This chapter also taught us how to find outliers by using two methods which are z-score and IQR method, as well as on how to handle them.
