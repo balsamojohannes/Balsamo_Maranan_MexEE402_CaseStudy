@@ -19,10 +19,10 @@
 
 | Chapter | Balsamo | Maranan |
 |---|---|---|
-| Chapter 1,2, & 3 | [link](https://colab.research.google.com/drive/1PmJ-JCiv6ojrx_A9Zd5xscvwoj1vOR9H?usp=drive_link) | [link](https://colab.research.google.com/drive/1OFkULaWrTIqt7hmuHu0gdjLdbvLa2CJS?usp=sharing) |
-| Chapter 4 | [link]() | [link](https://colab.research.google.com/drive/1Q3-ucsP4Uq2dvcIkrfbYAZqRkGgfDHDK?usp=sharing) |
-| Chapter 5| link]() | [link](https://colab.research.google.com/drive/1_WdAyvIXbMepLvDo1F5uJjKVIvD8RDDp?usp=sharing) |
-| Chapter 6| link]() | [link](https://colab.research.google.com/drive/1ojgVgTHwPaheQ9LQ2zYQDdUWKhQzcJhf?usp=sharing) |
+| Chapter 1,2, & 3 | [link](https://colab.research.google.com/drive/1PmJ-JCiv6ojrx_A9Zd5xscvwoj1vOR9H?usp=sharing) | [link](https://colab.research.google.com/drive/1OFkULaWrTIqt7hmuHu0gdjLdbvLa2CJS?usp=sharing) |
+| Chapter 4 | [link](https://colab.research.google.com/drive/1Hp-TqbZ0nw1is19u99GSCZjd3KogMGlE?usp=sharing) | [link](https://colab.research.google.com/drive/1Q3-ucsP4Uq2dvcIkrfbYAZqRkGgfDHDK?usp=sharing) |
+| Chapter 5| link](https://colab.research.google.com/drive/1oSdwTByyreMfD_rag2NuprYxBw0vKimp?usp=sharing) | [link](https://colab.research.google.com/drive/1_WdAyvIXbMepLvDo1F5uJjKVIvD8RDDp?usp=sharing) |
+| Chapter 6| link](https://colab.research.google.com/drive/11icyLzzlE1GduB_gqVmkYS5KHjQuH4IN?usp=sharing) | [link](https://colab.research.google.com/drive/1ojgVgTHwPaheQ9LQ2zYQDdUWKhQzcJhf?usp=sharing) |
 | Chapter 7| link]() | link]() |
 | Chapter 8| link]() | link]() |
 | Chapter 9| link]() | link]() |
