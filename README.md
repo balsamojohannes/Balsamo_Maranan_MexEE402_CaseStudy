@@ -31,7 +31,7 @@
 
 ## 🧠 What We Learned
 
-### Chapter 1–2–3
+### Chapter 1,2, & 3
 In chapters 1-3, we have learned about the foundation of data pre-processing from the introduction, exploration, and cleaning of our data. It made us realize how important it is for data to undergo pre-processing to produce clean and organized data for machine learning models. We observed that there are issues that may arise such as missing, inconsistent and irrelevant data, so that brought us in understanding the preprocessing techniques used in respective issues that cleans our data. Furthermore, it surprised us that there are methods to easily explore a dataset, which increases efficiency. 
 
 ### Chapter 4
@@ -58,13 +58,10 @@ In this chapter, we were able to apply the techniques that we learned from the p
 
 | Chapter | Original Error | Correct Version |
 |---|---|---|
-| Chapter 1,2, & 3 | | |
-| Chapter 4 | | |
-| Chapter 5| | |
-| Chapter 6| | |
-| Chapter 7| | |
-| Chapter 8| | |
-| Chapter 9| | |
+| Chapter 6 | outliers = data[np.abs(z_scores) > 3] | outliers = data[np.abs(z_scores) > 2] |
+| Chapter 7 | selector = RFECV(estimator, step=1, cv=5) | selector = RFECV(estimator, step=1, cv=3) |
+| Chapter 9 | plt.hist(data['Age'].dropna(), alpha=0.5, label='Before discretization') | plt.hist(data['Age'].dropna(), alpha=0.5, label='After discretization') |
+| | plt.hist(titanic_preprocessed[:,2], alpha=0.5, label='After discretization') | plt.hist(titanic_preprocessed[:,0], alpha=0.5, label='Before discretization') |
 
 ---
 
